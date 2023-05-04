@@ -1,1 +1,13 @@
+:root{
+    --cor-fundo: #000000;
+    --cor-cabeçalho: #E5BD97;
+    --letra-cabeçalho: #000000;
+    --letra-produtos: #FFFFFF; 
+   }
+
+   body{
+    background-color: var(--cor-fundo);
+    color: var(--cor-fundo);
+
+}
 
