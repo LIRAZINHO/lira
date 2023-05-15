@@ -2,11 +2,21 @@
     --cor-fundo: #000000;
     --cor-cabeçalho: #E5BD97;
     --letra-cabeçalho: #000000;
-    --letra-produtos: #FFFFFF; 
+    --letra-produtos: #FFFFFF;
+    --botao-pesquisa: #FFFFFF;
+    --escrita-botao: #000000;
    }
 
    body{
     background-color: var(--cor-fundo);
     color: var(--cor-fundo);
+    color: var(--cor-fundo); 
+
+}
+.container__botao {
+    background-color: var(--botao-pesquisa);
+    padding: 1em;
+    color: var(--escrita-botao);
+    display: block;
 
 }
