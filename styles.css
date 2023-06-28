@@ -18,5 +18,13 @@
     padding: 1em;
     color: var(--escrita-botao);
     display: block;
+    
 
+}
+.container__titulo{
+    font-size: 64px;
+    font-weight: 40;
+}
+.container__imagem{
+    margin: 1em 0 2em 0;
 }
